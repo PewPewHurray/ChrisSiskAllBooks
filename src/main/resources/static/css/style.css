@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+.showLabels{
+	font-weight: bold;
+}
+
+h1{
+	margin: 15px;
+}
+
+table{
+	margin: 15px;
+}
+
+.showDiv{
+	margin: 15px;
+}
+
+.goBack{
+	margin: 15px;
+	font-size: 20px;
+	font-weight: bold;
+}
